@@ -28,6 +28,6 @@ export const AppDataSource = new DataSource({
     InscripcionCurso,
     Certificado,
     ResultadoEvaluacion,
-    EntregaActividad
+    EntregaActividad,
   ],
 });
